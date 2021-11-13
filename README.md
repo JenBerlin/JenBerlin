@@ -1,7 +1,7 @@
 ![pic_banner_2](https://user-images.githubusercontent.com/90558898/141650513-d9df4e2e-255d-4487-9dd0-f0f42a93db53.jpg)
 
 ### Hi there: I'm currently learning coding at the ESMT Berlin Coding Boot Camp 👋
-## My portfolio: https://jenberlin.github.io/Portfolio/
+#### My portfolio: https://jenberlin.github.io/Portfolio/
 
 Here are some ideas to get you started:
            
