@@ -1,4 +1,4 @@
-![pic_banner_1](https://user-images.githubusercontent.com/90558898/141650435-7497db45-8e50-49d8-ab4f-31df549acbbd.jpg)
+![pic_banner_2](https://user-images.githubusercontent.com/90558898/141650513-d9df4e2e-255d-4487-9dd0-f0f42a93db53.jpg)
 
 ### Hi there: I'm currently learning coding at the ESMT Berlin Coding Boot Camp 👋
 
